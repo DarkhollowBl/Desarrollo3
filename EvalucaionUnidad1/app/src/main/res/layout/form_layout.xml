@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/type_name"
+        android:textSize="@dimen/default_size"
+        android:id="@+id/txtName"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtName"
+        android:textSize="@dimen/default_size"
+        android:hint="@string/type_your_name"
+        android:inputType="textPersonName"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/type_age"
+        android:textSize="@dimen/default_size"
+        android:id="@+id/txtAge"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtAge"
+        android:textSize="@dimen/default_size"
+        android:hint="@string/type_your_age"
+        android:inputType="number"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/type_number"
+        android:textSize="@dimen/default_size"
+        android:id="@+id/txtNumber"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtNumber"
+        android:textSize="@dimen/default_size"
+        android:hint="@string/type_your_number"
+        android:inputType="number"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_send"
+        android:textSize="@dimen/default_size"
+        android:id="@+id/btnSend"/>
+</LinearLayout>

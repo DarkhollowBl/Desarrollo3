@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EvalucaionUnidad1</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_multi">x</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_6">6</string>
+    <string name="_minus">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_plus">+</string>
+    <string name="_divide">/</string>
+    <string name="_0">0</string>
+    <string name="_dot">.</string>
+    <string name="_equals">=</string>
+    <string name="type_name">Type Name:</string>
+    <string name="type_your_age">Type your age</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="type_your_number">Type your number</string>
+    <string name="type_number">Type Number:</string>
+    <string name="type_age">Type Age:</string>
+    <string name="btn_send">Send</string>
+    <string name="your_data">Your Data</string>
+    <string name="_name">Name</string>
+    <string name="_age">Age</string>
+    <string name="_number">Number</string>
+    <string name="your_name_is">Your Name Is:</string>
+    <string name="your_age_is">Your Age Is:</string>
+    <string name="your_number_is">Your Number Is:</string>
+    <string name="btn_exit">Exit</string>
+</resources>
